@@ -32,5 +32,5 @@ This project demonstrates **control structures, loops, input handling, random nu
 
 ---
 
-## 📂 Project Structure
+
 
